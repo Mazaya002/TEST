@@ -1,0 +1,8 @@
+//  Requirements
+
+Docker
+Windows/Linux
+PHP
+HTML
+CSS
+250GB Storage
